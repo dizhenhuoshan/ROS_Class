@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/turtle/devel
+
+Name: joycontrol
+Description: Description of joycontrol
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wymt/c++/ROS/turtle/devel/lib 
+Requires: 

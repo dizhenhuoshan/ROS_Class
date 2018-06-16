@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/d_4/devel
+
+Name: arm
+Description: Description of arm
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/wymt/c++/ROS/d_4/devel/lib 
+Requires: 

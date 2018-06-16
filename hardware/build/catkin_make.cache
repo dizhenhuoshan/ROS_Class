@@ -1,0 +1,2 @@
+arm-moveit:hardware1
+-DCATKIN_DEVEL_PREFIX=/home/wymt/c++/ROS/hardware/devel -DCMAKE_INSTALL_PREFIX=/home/wymt/c++/ROS/hardware/install -G Unix Makefiles

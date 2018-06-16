@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+  <!-- Example 7 -->
+  <node pkg="chapter4" type="example7" name="example7"
+        output="screen"/>
+  <node pkg="tf" type="static_transform_publisher" name="link1_broadcaster" args="1 0 0 0 0 0 1 base_link frame_marker 100" /> 
+  <node pkg="tf" type="static_transform_publisher" name="link2_broadcaster" args="1 0 0 0 0 0 1 base_link pc 100" /> 
+</launch>
+

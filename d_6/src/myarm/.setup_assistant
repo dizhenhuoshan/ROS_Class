@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/wymt/c++/ROS/urdf/demo.urdf
+  SRDF:
+    relative_path: config/visual.srdf
+  CONFIG:
+    author_name: ymt
+    author_email: i@ymt.com
+    generated_timestamp: 1526227534

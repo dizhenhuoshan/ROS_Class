@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/UR/install
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.2.1
+Cflags: -I/home/wymt/c++/ROS/UR/install/include
+Libs: -L/home/wymt/c++/ROS/UR/install/lib 
+Requires: dynamic_reconfigure

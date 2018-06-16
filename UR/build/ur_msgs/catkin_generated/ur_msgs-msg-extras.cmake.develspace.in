@@ -1,0 +1,2 @@
+set(ur_msgs_MESSAGE_FILES "/home/wymt/c++/ROS/UR/src/ur_msgs/msg/Analog.msg;/home/wymt/c++/ROS/UR/src/ur_msgs/msg/Digital.msg;/home/wymt/c++/ROS/UR/src/ur_msgs/msg/IOStates.msg;/home/wymt/c++/ROS/UR/src/ur_msgs/msg/RobotStateRTMsg.msg;/home/wymt/c++/ROS/UR/src/ur_msgs/msg/MasterboardDataMsg.msg;/home/wymt/c++/ROS/UR/src/ur_msgs/msg/ToolDataMsg.msg")
+set(ur_msgs_SERVICE_FILES "/home/wymt/c++/ROS/UR/src/ur_msgs/srv/SetPayload.srv;/home/wymt/c++/ROS/UR/src/ur_msgs/srv/SetIO.srv")

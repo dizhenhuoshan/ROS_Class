@@ -1,0 +1,2 @@
+kinect1
+-DCATKIN_DEVEL_PREFIX=/home/wymt/c++/ROS/kinect/devel -DCMAKE_INSTALL_PREFIX=/home/wymt/c++/ROS/kinect/install -G Unix Makefiles

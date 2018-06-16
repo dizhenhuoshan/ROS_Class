@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++17 -Wall -Wextra -Wconversion -g   -shared -Wl,-soname,libur3_kin.so -o /home/wymt/c++/ROS/UR/devel/lib/libur3_kin.so CMakeFiles/ur3_kin.dir/src/ur_kin.cpp.o 

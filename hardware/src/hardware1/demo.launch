@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<launch>  <!-- 根元素起始 -->
+<!-- 节点起始 -->
+    <node pkg="turtlesim" type="turtlesim_node" name="turtle" ns="sim2" /> <!-- 节点结束 -->
+<!-- 节点起始 -->
+    <node pkg="hardware1" type="talker" name="cmd_vel" ns="sim2"> </node>
+<!-- 节点起始 -->
+	<node pkg = "joy" type = "joy_node" name = "joy_node" ns = "sim2"> </node>
+		<param name="axis_linear" value = "1" type = "int"/>
+		<param name="axis_angular" value = "0" type = "int"/>
+		<node respawn = "true" pkg = "joy" type = "joy_node" name = "teleopJoy"> </node>
+		<param name = "dev" type = "string" value = "/dev/input/js0"/>
+		<param name = "deadzone" value = "0.12"/>
+</launch> <!-- 根元素结束 -->

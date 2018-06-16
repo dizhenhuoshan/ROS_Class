@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/d_6/devel
+
+Name: chapter4
+Description: Description of chapter4
+Version: 0.0.0
+Cflags: -I/home/wymt/c++/ROS/d_6/devel/include
+Libs: -L/home/wymt/c++/ROS/d_6/devel/lib 
+Requires: 

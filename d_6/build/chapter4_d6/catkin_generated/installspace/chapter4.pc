@@ -1,0 +1,8 @@
+prefix=/home/wymt/桌面/C++/ROS/d_6/install
+
+Name: chapter4
+Description: Description of chapter4
+Version: 0.0.0
+Cflags: -I/home/wymt/桌面/C++/ROS/d_6/install/include
+Libs: -L/home/wymt/桌面/C++/ROS/d_6/install/lib 
+Requires: 

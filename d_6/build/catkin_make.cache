@@ -1,0 +1,2 @@
+arm_description:chapter4:chapter9:myarm:myur:ur3_control
+-DCATKIN_DEVEL_PREFIX=/home/wymt/c++/ROS/d_6/devel -DCMAKE_INSTALL_PREFIX=/home/wymt/c++/ROS/d_6/install -G Unix Makefiles

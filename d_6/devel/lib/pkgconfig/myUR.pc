@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/d_6/devel
+
+Name: myUR
+Description: Description of myUR
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/wymt/c++/ROS/d_6/devel/lib 
+Requires: 

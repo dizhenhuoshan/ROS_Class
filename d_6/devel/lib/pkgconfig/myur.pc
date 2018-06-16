@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/d_6/devel
+
+Name: myur
+Description: Description of myur
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/wymt/c++/ROS/d_6/devel/lib 
+Requires: 

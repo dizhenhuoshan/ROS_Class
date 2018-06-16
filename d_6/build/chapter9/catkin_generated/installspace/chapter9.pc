@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/d_6/install
+
+Name: chapter9
+Description: Description of chapter9
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wymt/c++/ROS/d_6/install/lib 
+Requires: 

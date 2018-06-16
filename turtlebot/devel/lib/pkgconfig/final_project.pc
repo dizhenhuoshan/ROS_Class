@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/turtlebot/devel
+
+Name: final_project
+Description: Description of final_project
+Version: 0.0.0
+Cflags: -I/home/wymt/c++/ROS/turtlebot/devel/include
+Libs: -L/home/wymt/c++/ROS/turtlebot/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime

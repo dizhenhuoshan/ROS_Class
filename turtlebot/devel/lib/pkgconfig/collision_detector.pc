@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/turtlebot/devel
+
+Name: collision_detector
+Description: Description of collision_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wymt/c++/ROS/turtlebot/devel/lib 
+Requires: 

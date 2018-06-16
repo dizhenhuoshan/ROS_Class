@@ -1,0 +1,2 @@
+joycontrol:turtle1
+-DCATKIN_DEVEL_PREFIX=/home/wymt/c++/ROS/turtle/devel -DCMAKE_INSTALL_PREFIX=/home/wymt/c++/ROS/turtle/install -G Unix Makefiles

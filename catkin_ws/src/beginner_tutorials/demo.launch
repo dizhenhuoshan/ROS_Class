@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>  <!-- 根元素起始 -->
+<!-- 节点起始 -->
+    <node pkg="turtlesim" type="turtlesim_node" name="turtle" ns="sim2" /> <!-- 节点结束 -->
+<!-- 节点起始 -->
+    <node pkg="beginner_tutorials" type="talker" name="cmd_vel" launch-prefix="xterm -e" ns="sim2"> </node> <!-- 节点结束 -->
+<!-- 节点起始 -->
+
+</launch> <!-- 根元素结束 -->

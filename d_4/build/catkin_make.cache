@@ -1,0 +1,2 @@
+arm517:arm_description:beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/wymt/c++/ROS/d_4/devel -DCMAKE_INSTALL_PREFIX=/home/wymt/c++/ROS/d_4/install -G Unix Makefiles

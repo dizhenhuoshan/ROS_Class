@@ -1,0 +1,2 @@
+universal_robot:ur10_moveit_config:ur3_moveit_config:ur5_moveit_config:ur_bringup:ur_description:ur_driver:ur_gazebo:ur_kinematics:ur_msgs
+-DCATKIN_DEVEL_PREFIX=/home/wymt/c++/ROS/UR/devel -DCMAKE_INSTALL_PREFIX=/home/wymt/c++/ROS/UR/install -G Unix Makefiles

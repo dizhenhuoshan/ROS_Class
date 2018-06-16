@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/UR/devel
+
+Name: ur_bringup
+Description: Description of ur_bringup
+Version: 1.2.1
+Cflags: 
+Libs: -L/home/wymt/c++/ROS/UR/devel/lib 
+Requires: 

@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: arm_description
+    relative_path: urdf/seven_dof_arm.urdf
+  SRDF:
+    relative_path: config/seven_dof_arm.srdf
+  CONFIG:
+    author_name: YMT
+    author_email: i@ymt.com
+    generated_timestamp: 1525684180

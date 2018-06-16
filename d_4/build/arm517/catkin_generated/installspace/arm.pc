@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/d_4/install
+
+Name: arm
+Description: Description of arm
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/wymt/c++/ROS/d_4/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/wymt/c++/ROS/turtlebot/devel
+
+Name: turtlebot_c
+Description: Description of turtlebot_c
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/wymt/c++/ROS/turtlebot/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime

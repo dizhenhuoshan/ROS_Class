@@ -1,0 +1,2 @@
+meta
+-DCATKIN_DEVEL_PREFIX=/home/wymt/桌面/C++/ROS/d_5/devel -DCMAKE_INSTALL_PREFIX=/home/wymt/桌面/C++/ROS/d_5/install -G Unix Makefiles

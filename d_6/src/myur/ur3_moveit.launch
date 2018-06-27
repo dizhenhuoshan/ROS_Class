@@ -1,8 +1,0 @@
-<launch>
-    <include file="$(find myur)/launch/myur3.launch" />
-
-    <include file="$(find myur)/launch/myur_moveit_planning_execution.launch" />
-
-    <include file="$(find myur)/launch/moveit_rviz.launch" />
-
-</launch>
